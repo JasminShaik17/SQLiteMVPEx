@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteMVPEx</string>
+    <string-array name="type">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+</resources>
