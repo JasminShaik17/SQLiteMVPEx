@@ -6,8 +6,8 @@ interface IncExpViewAPI
 {
 
     fun  addResult(msg:String)
-    fun  viewExpResult(list:ArrayList<IncExpPojo>)
-    fun  viewIncResult(list:ArrayList<IncExpPojo>)
-    fun  viewIncExpResult(list:ArrayList<IncExpPojo>)
+    fun  viewExpResult(list:ArrayList<String>)
+    fun  viewIncResult(list:ArrayList<String>)
+    fun  viewIncExpResult(list:ArrayList<String>)
 
 }
